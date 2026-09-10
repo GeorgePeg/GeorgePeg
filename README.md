@@ -1,5 +1,6 @@
 
 # George Pegiazis 
+### Software Engineer | Web Application Developer | Robotics
 📍Patras, Greece |🎓ECE University of Peloponnese Patras, Greece
 
 ## About Me
