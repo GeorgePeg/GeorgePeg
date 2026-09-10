@@ -32,9 +32,15 @@ I am an undergratuated student at the Department of Electrical and Computer Engi
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white)
+
 
 ## AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google_Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white)
+
 
 
 ## Languages I also use
