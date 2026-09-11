@@ -3,7 +3,7 @@
 ### Software Engineer | Web Application Developer | Robotics
 📍Patras, Greece |🎓ECE University of Peloponnese Patras, Greece
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=GeorgePeg)](https://github.com/stats-organization/github-stats-extended) 
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=GeorgePeg&theme=gruvbox&show_icons=true)](https://github.com/stats-organization/github-stats-extended) 
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GeorgePeg)](https://github.com/stats-organization/github-stats-extended)
 
