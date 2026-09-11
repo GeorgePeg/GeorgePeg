@@ -4,6 +4,7 @@
 📍Patras, Greece |🎓ECE University of Peloponnese Patras, Greece
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=GeorgePeg)](https://github.com/stats-organization/github-stats-extended) 
+
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GeorgePeg)](https://github.com/stats-organization/github-stats-extended)
 
 ## About Me
