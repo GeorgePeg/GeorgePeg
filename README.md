@@ -8,8 +8,8 @@
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GeorgePeg&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 [![Repository 1](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=TranslatorApp)](https://github.com/GeorgePeg/TranslatorApp)
-[![Repository 2](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=CopyChain)](https://github.com/GeorgePeg/CopyChain)
-[![Repository 3](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=Ares-Mini-Sumo-Robot)](https://github.com/GeorgePeg/Ares-Mini-Sumo-Robot)
+[![Repository 2](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=Ares-Mini-Sumo-Robot)](https://github.com/GeorgePeg/Ares-Mini-Sumo-Robot)
+[![Repository 3](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=CopyChain)](https://github.com/GeorgePeg/CopyChain)
 
 ## About Me
 I am an undergratuated student at the Department of Electrical and Computer Engineering of the University of the Peloponnese in Patras, Greece. I am also an active member of the university's robotics team (https://github.com/UoP-Robotics). I am focusing on project management, web application programming, cybersecurity and digital law.
