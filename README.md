@@ -5,7 +5,7 @@
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=GeorgePeg&theme=gruvbox&show_icons=true)](https://github.com/stats-organization/github-stats-extended) 
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GeorgePeg&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GeorgePeg&theme=white)](https://github.com/stats-organization/github-stats-extended)
 
 [![Repository 1](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=TranslatorApp)](https://github.com/GeorgePeg/TranslatorApp)
 [![Repository 2](https://github-stats-extended.vercel.app/api/pin/?username=GeorgePeg&repo=Ares-Mini-Sumo-Robot)](https://github.com/GeorgePeg/Ares-Mini-Sumo-Robot)
